@@ -1,0 +1,38 @@
+Naive Bayes, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour, Support vector Mechine, Radial Basis Functions
+*MOdels* in Term Frequency - Inverse Document Frequency(TF-IDF) -
+Naive Bayes, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour, Support vector Machine, Radial Basis Functions
+...
+MultinomialNB Accuracy Score : 0.6353255587949466
+Logistic Regression - Accuracy Score : 0.7920310981535471
+Random Forest - Accuracy Score : 0.461491739552964
+Decision Tree - Accuracy Score : 0.593415937803693
+K-Nearest Neighbour - Accuracy Score : 0.6098153547133139
+Support Vector Machine - Accuracy Score : 0.8028425655976676
+Radial Basis Functions - Accuracy Score : 0.6370262390670554
+
+
+
+*MOdels* in CountVectorizer -
+Artificial Neural Network, Naive Bayes, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour, Support vector Machine, Radial Basis Functions
+```
+Artificial Neural Network - Accuracy Score : 0.2193877551020408
+MultinomialNB Accuracy Score : 0.6657758341431811
+Logistic Regression - Accuracy Score : 0.7904923874311629
+Random Forest - Accuracy Score : 0.4680919987042436
+Decision Tree - Accuracy Score : 0.6814868804664723
+K-Nearest Neighbour - Accuracy Score : 0.2529154518950437
+Support Vector Machine - Accuracy Score : 0.7742144476838354
+Radial Basis Functions - Accuracy Score : 0.456511175898931
+
+
+CONCLUSION :-
+In classification - Term frequency, Inverse document frequency(TfIdf),
+The best model for this dataset would be Support Vector Machine & Logistics Regression 
+1.Support Vector Machine - Accuracy Score : 0.8028425655976676
+2.Logistic Regression - Accuracy Score : 7920310981535471
+
+In classification - CountVectorizer,
+The best model for this dataset would be Support Vector Machine & Logistics Regression in CountVectorizer
+1.Support Vector Machine - Accuracy Score : 0.7742144476838354
+2.Logistic Regression - Accuracy Score : 0.7904923874311629
+
